@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊~麻烦死我了 ......
 
 You can use the [editor on GitHub](https://github.com/dasungeniubi/hwxq/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
